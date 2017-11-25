@@ -1,21 +1,18 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
-
-
+title: Niclas Södergård
+baseurl: /
+email: nickus@gmail.com
 
 highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
-
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+#disqus-shortname: webjeda-demo
 
 
 #optimization
